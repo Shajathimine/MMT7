@@ -1,2 +1,6 @@
 scenario1 : book train from chennai to bangalore 
 scenario2 : book train from pune to chennai
+
+
+scenario1 : book train from chennai to bangalore 
+scenario2 : book train from pune to chennai
